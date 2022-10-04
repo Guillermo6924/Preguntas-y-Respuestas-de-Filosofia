@@ -1,0 +1,41 @@
+[
+    {
+        "categoria": "Filosofia",
+        "pregunta": "¿Qué es la Filosofia?",
+        "respuesta": "Es el estudio de problemáticas diversas como son el conocimiento, la mente, la consciencia, la ética, el lenguaje, la belleza, la moral",
+        "incorrecta1": "Es una disciplina académica",
+        "incorrecta2": "práctica teórica de la filosofía que procede a través de axiomas trascendentales y produciendo teoremas filosóficamente no interpretables",
+        "incorrecta3": "Una materia nada más",
+        "imagen": "https://www.filco.es/uploads/2021/08/Ensenar-filosofia-desde-las-ideas.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Filosofia",
+        "pregunta": "¿Qué Filosofo es?",
+        "respuesta": "Tales",
+        "incorrecta1": "Anaxemandro",
+        "incorrecta2": "Platón",
+        "incorrecta3": "Aristoteles",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLghawFTWU59V80p6Bhs30Aizd5YDGzNUQhE7zj19KgMHsJk8UNiqdTSn2900-cyrcBos&usqp=CAU",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Filosofia",
+        "pregunta": "¿A que filosofo seguia Platón?",
+        "respuesta": "Sócrates",
+        "incorrecta1": "Anaxemandro",
+        "incorrecta2": "Aristoteles",
+        "incorrecta3": "Tales",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUMwZDFM6mXoQ8IoJtjJ8OcTj2bz2O2dz4mSeIwWZEYyjJabTIEIazGVyv4fbJFcutpnI&usqp=CAU",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Filosofia",
+        "pregunta": "¿Quién es el padre de la Filosofia?",
+        "respuesta": "Sórates",
+        "incorrecta1": "Aristoteles",
+        "incorrecta2": "Tales",
+        "incorrecta3": "Platón",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvDZV-0bIX-HsHMKQn6EP4_IRERRKTbEwTVe6HtFR32lzenG2exsF9fYmPp0iGVQLSNYA&usqp=CAU"
+    }
+]
